@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6CB53486A87B2DE8A70A7D44D0F884F69EA5FA09",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0,
+    "6CB53486A87B2DE8A70A7D44D0F884F69EA5FA09" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4DBD347-4519-4287-B42E-2CA65AD2AB59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "neostore\/neostore-ccptwsfgwtsbtlggrghjtbmizfav\/SourcePackages\/checkouts\/Alamofire\/",
+    "6CB53486A87B2DE8A70A7D44D0F884F69EA5FA09" : "neostore\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "neostore",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "neostore.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/neosoft\/Library\/Developer\/Xcode\/DerivedData\/neostore-ccptwsfgwtsbtlggrghjtbmizfav\/SourcePackages\/repositories\/Alamofire-e8f130fe",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MayurPatil369\/neostore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6CB53486A87B2DE8A70A7D44D0F884F69EA5FA09"
+    }
+  ]
+}

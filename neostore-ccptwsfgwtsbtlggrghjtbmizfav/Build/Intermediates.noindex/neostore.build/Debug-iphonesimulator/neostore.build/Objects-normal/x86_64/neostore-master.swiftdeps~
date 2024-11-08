@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "643855cf89848badb099741b4fae9b602d8577aae3169a700bc17fe06dd50f1c"
+build_start_time: [1730960160, 236953020]
+build_end_time: [1730960160, 321040153]
+inputs:
+  "/Users/neosoft/Documents/neostore/neostore/Application/AppDelegate.swift": !private [1729840308, 586615085]
+  "/Users/neosoft/Documents/neostore/neostore/Application/SceneDelegate.swift": !private [1729840308, 597894191]
+  "/Users/neosoft/Documents/neostore/neostore/Constants/Constants.swift": !private [1730902795, 290723085]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/ForgetPassword/View/ForgetPasswordViewController.swift": !private [1730289348, 921852588]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Home Screen/Views/HomeScreenViewController.swift": !private [1730292803, 969918489]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Login/Model/Login.swift": !private [1730728723, 989898204]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Login/View Model/LoginViewModel.swift": !private [1730960144, 864239692]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Login/View/LoginViewController.swift": !private [1730815617, 198271274]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Register/Model/Register Model.swift": !private [1730902257, 502656459]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Register/View Model/RegisterViewModel.swift": !private [1730902257, 394111633]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Register/View/RegisterViewController.swift": !private [1730903346, 134284257]
+  "/Users/neosoft/Documents/neostore/neostore/Support/Helper/APIManager.swift": !private [1730959994, 691246271]
+  "/Users/neosoft/Documents/neostore/neostore/Support/Helper/Validations.swift": !private [1730299272, 494048118]
+  "/Users/neosoft/Documents/neostore/neostore/Utility/EndPointType.swift": !private [1730903346, 124255180]
+  "/Users/neosoft/Documents/neostore/neostore/extension/Navigation.swift": !private [1730121943, 470170497]
+  "/Users/neosoft/Documents/neostore/neostore/extension/UITextField.swift": !private [1730121943, 542021274]
+  "/Users/neosoft/Documents/neostore/neostore/extension/UIViewController.swift": !private [1730289348, 807585239]

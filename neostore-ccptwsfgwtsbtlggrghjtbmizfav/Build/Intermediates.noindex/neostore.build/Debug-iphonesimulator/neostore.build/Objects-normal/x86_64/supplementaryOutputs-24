@@ -1,0 +1,20 @@
+"/Users/neosoft/Documents/neostore/neostore/Constants/Constants.swift":
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Constants.dia"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Constants.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Constants.swiftdeps"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Constants.o"
+"/Users/neosoft/Documents/neostore/neostore/Application/SceneDelegate.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/SceneDelegate.d"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/SceneDelegate.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/SceneDelegate.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/SceneDelegate.dia"
+"/Users/neosoft/Documents/neostore/neostore/Screens/Home Screen/Views/HomeScreenViewController.swift":
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/HomeScreenViewController.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/HomeScreenViewController.swiftdeps"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/HomeScreenViewController.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/HomeScreenViewController.d"
+"/Users/neosoft/Documents/neostore/neostore/Support/Helper/Validations.swift":
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Validations.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Validations.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Validations.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Validations.swiftdeps"

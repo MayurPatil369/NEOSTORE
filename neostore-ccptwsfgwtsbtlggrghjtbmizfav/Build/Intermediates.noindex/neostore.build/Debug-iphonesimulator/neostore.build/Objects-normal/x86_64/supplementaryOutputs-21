@@ -1,0 +1,25 @@
+"/Users/neosoft/Documents/neostore/neostore/extension/UITextField.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UITextField.o"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UITextField.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UITextField.swiftdeps"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UITextField.d"
+"/Users/neosoft/Documents/neostore/neostore/extension/UIViewController.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UIViewController.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UIViewController.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UIViewController.dia"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/UIViewController.d"
+"/Users/neosoft/Documents/neostore/neostore/Screens/Login/View/LoginViewController.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewController.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewController.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewController.dia"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewController.d"
+"/Users/neosoft/Documents/neostore/neostore/Utility/EndPointType.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/EndPointType.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/EndPointType.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/EndPointType.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/EndPointType.swiftdeps"
+"/Users/neosoft/Documents/neostore/neostore/Support/Helper/APIManager.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/APIManager.o"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/APIManager.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/APIManager.swiftdeps"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/APIManager.d"

@@ -1,0 +1,20 @@
+"/Users/neosoft/Documents/neostore/neostore/Screens/Register/View Model/RegisterViewModel.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewModel.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewModel.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewModel.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewModel.o"
+"/Users/neosoft/Documents/neostore/neostore/Screens/Login/View Model/LoginViewModel.swift":
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewModel.swiftdeps"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewModel.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewModel.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/LoginViewModel.o"
+"/Users/neosoft/Documents/neostore/neostore/extension/Navigation.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Navigation.o"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Navigation.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Navigation.swiftdeps"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Navigation.d"
+"/Users/neosoft/Documents/neostore/neostore/Application/AppDelegate.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/AppDelegate.d"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/AppDelegate.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/AppDelegate.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/AppDelegate.dia"

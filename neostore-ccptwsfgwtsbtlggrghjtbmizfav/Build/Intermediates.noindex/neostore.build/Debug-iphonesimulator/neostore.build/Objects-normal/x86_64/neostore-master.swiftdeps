@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "643855cf89848badb099741b4fae9b602d8577aae3169a700bc17fe06dd50f1c"
+build_start_time: [1730973295, 241731166]
+build_end_time: [1730973296, 814347982]
+inputs:
+  "/Users/neosoft/Documents/neostore/neostore/Application/AppDelegate.swift": [1729840308, 586615085]
+  "/Users/neosoft/Documents/neostore/neostore/Application/SceneDelegate.swift": [1729840308, 597894191]
+  "/Users/neosoft/Documents/neostore/neostore/Constants/Constants.swift": [1730902795, 290723085]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/ForgetPassword/View/ForgetPasswordViewController.swift": [1730289348, 921852588]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Home Screen/Views/HomeScreenViewController.swift": [1730292803, 969918489]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Login/Model/Login.swift": [1730728723, 989898204]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Login/View Model/LoginViewModel.swift": [1730960144, 864239692]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Login/View/LoginViewController.swift": [1730815617, 198271274]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Register/Model/Register Model.swift": [1730902257, 502656459]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Register/View Model/RegisterViewModel.swift": [1730970860, 572702407]
+  "/Users/neosoft/Documents/neostore/neostore/Screens/Register/View/RegisterViewController.swift": [1730973294, 831276655]
+  "/Users/neosoft/Documents/neostore/neostore/Support/Helper/APIManager.swift": [1730971328, 929333686]
+  "/Users/neosoft/Documents/neostore/neostore/Support/Helper/Validations.swift": [1730299272, 494048118]
+  "/Users/neosoft/Documents/neostore/neostore/Utility/EndPointType.swift": [1730903346, 124255180]
+  "/Users/neosoft/Documents/neostore/neostore/extension/Navigation.swift": [1730121943, 470170497]
+  "/Users/neosoft/Documents/neostore/neostore/extension/UITextField.swift": [1730121943, 542021274]
+  "/Users/neosoft/Documents/neostore/neostore/extension/UIViewController.swift": [1730289348, 807585239]

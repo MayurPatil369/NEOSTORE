@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f1418eba25e7c5976ed6cb1b7e4230af9238d5068eda11b971413b1e86b1e918"
+    }
+  ],
+  "containerPath" : "/Users/neosoft/Documents/neostore/neostore.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Products",
+      "derivedDataPath" : "/Users/neosoft/Documents/neostore",
+      "indexDataStoreFolderPath" : "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "CC3A9395-30CB-4FE2-BFA0-BA631C1B1B70",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

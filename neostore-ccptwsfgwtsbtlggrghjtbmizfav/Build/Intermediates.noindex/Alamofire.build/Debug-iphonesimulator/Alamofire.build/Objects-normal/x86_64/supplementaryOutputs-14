@@ -1,0 +1,55 @@
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLConvertible+URLRequestConvertible.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLConvertible+URLRequestConvertible.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLConvertible+URLRequestConvertible.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLConvertible+URLRequestConvertible.dia"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Request.swift":
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.swiftdeps"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.o"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.dia"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Request.d"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/WebSocketRequest.swift":
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/WebSocketRequest.swiftdeps"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/WebSocketRequest.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/WebSocketRequest.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/WebSocketRequest.dia"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Response.swift":
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.swiftdeps"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Response.d"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.o"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/SessionDelegate.swift":
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/SessionDelegate.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/SessionDelegate.dia"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/SessionDelegate.d"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/SessionDelegate.o"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/UploadRequest.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/UploadRequest.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/UploadRequest.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/UploadRequest.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/UploadRequest.swiftdeps"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Result+Alamofire.d"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Result+Alamofire.o"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Result+Alamofire.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Result+Alamofire.swiftdeps"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/RequestTaskMap.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RequestTaskMap.swiftdeps"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/DispatchQueue+Alamofire.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/DispatchQueue+Alamofire.swiftdeps"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/DispatchQueue+Alamofire.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/DispatchQueue+Alamofire.o"
+"/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Session.swift":
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Session.d"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Session.swiftdeps"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Session.o"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Session.dia"

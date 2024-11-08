@@ -1,0 +1,89 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2f0faa82f5992c606c46866ebda50d8f5686361c4811db37ac2e0316d0a5a545"
+build_start_time: [1730960154, 791713953]
+build_end_time: [1730960158, 483549118]
+inputs:
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Alamofire.swift"
+  : [1730797363, 192554950]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/AFError.swift"
+  : [1730797363, 193334102]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/DataRequest.swift"
+  : [1730797363, 194060325]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/DataStreamRequest.swift"
+  : [1730797363, 195776939]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/DownloadRequest.swift"
+  : [1730797363, 196267843]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/HTTPHeaders.swift"
+  : [1730797363, 197309494]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/HTTPMethod.swift"
+  : [1730797363, 198186397]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Notifications.swift"
+  : [1730797363, 198891639]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoder.swift"
+  : [1730797363, 199323415]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoding.swift"
+  : [1730797363, 199841737]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Protected.swift"
+  : [1730797363, 200302124]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Request.swift"
+  : [1730797363, 202161312]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/RequestTaskMap.swift"
+  : [1730797363, 203225851]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Response.swift"
+  : [1730797363, 203872680]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/Session.swift"
+  : [1730797363, 205276012]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/SessionDelegate.swift"
+  : [1730797363, 206228256]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift"
+  : [1730797363, 206764698]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/UploadRequest.swift"
+  : [1730797363, 207128763]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Core/WebSocketRequest.swift"
+  : [1730797363, 207992553]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift"
+  : [1730797363, 208687543]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift"
+  : [1730797363, 209319829]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift"
+  : [1730797363, 209736824]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift"
+  : [1730797363, 210249900]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift"
+  : [1730797363, 210615158]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift"
+  : [1730797363, 211233139]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/AlamofireExtended.swift"
+  : [1730797363, 211813449]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift"
+  : [1730797363, 212431907]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift"
+  : [1730797363, 213034629]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/Combine.swift"
+  : [1730797363, 214187622]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/Concurrency.swift"
+  : [1730797363, 216678142]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/EventMonitor.swift"
+  : [1730797363, 217496156]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/MultipartFormData.swift"
+  : [1730797363, 218499422]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/MultipartUpload.swift"
+  : [1730797363, 219013452]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift"
+  : [1730797363, 219528198]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/RedirectHandler.swift"
+  : [1730797363, 219880580]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/RequestCompression.swift"
+  : [1730797363, 220637798]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/RequestInterceptor.swift"
+  : [1730797363, 221201419]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/ResponseSerialization.swift"
+  : [1730797363, 222146987]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/RetryPolicy.swift"
+  : [1730797363, 222876548]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift"
+  : [1730797363, 223644256]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift"
+  : [1730797363, 224644184]
+  ? "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/SourcePackages/checkouts/Alamofire/Source/Features/Validation.swift"
+  : [1730797363, 225137710]

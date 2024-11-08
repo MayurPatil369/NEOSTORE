@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>075DD52F-8807-4302-8C7B-4671B606F33C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>075DD52F-8807-4302-8C7B-4671B606F33C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752665893.31955004</real>
+			<key>timeStoppedRecording</key>
+			<real>752665896.20788097</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>075DD52F-8807-4302-8C7B-4671B606F33C</string>
+		</dict>
+		<key>081A7A7A-DDDA-4DD0-8071-A8EF759AF480</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>081A7A7A-DDDA-4DD0-8071-A8EF759AF480.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752662817.08869302</real>
+			<key>timeStoppedRecording</key>
+			<real>752662817.46830106</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>081A7A7A-DDDA-4DD0-8071-A8EF759AF480</string>
+		</dict>
+		<key>0CE56933-3574-4ADE-80E1-5726867F4D8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0CE56933-3574-4ADE-80E1-5726867F4D8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752657789.63796401</real>
+			<key>timeStoppedRecording</key>
+			<real>752657791.20466399</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>0CE56933-3574-4ADE-80E1-5726867F4D8D</string>
+		</dict>
+		<key>1263ACED-A136-4675-A73C-0A7A42E63568</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1263ACED-A136-4675-A73C-0A7A42E63568.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752663391.029513</real>
+			<key>timeStoppedRecording</key>
+			<real>752663393.51352596</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>1263ACED-A136-4675-A73C-0A7A42E63568</string>
+		</dict>
+		<key>430F71D3-94A6-4DDB-8736-2E11E512A657</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>430F71D3-94A6-4DDB-8736-2E11E512A657.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752663372.90147698</real>
+			<key>timeStoppedRecording</key>
+			<real>752663373.46617901</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>430F71D3-94A6-4DDB-8736-2E11E512A657</string>
+		</dict>
+		<key>709CAD2C-4979-4ED0-875E-9B2B254139E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>709CAD2C-4979-4ED0-875E-9B2B254139E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752664128.940593</real>
+			<key>timeStoppedRecording</key>
+			<real>752664131.36331499</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>709CAD2C-4979-4ED0-875E-9B2B254139E3</string>
+		</dict>
+		<key>9FDBBE15-C24C-4D90-815C-74C0B4370CB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9FDBBE15-C24C-4D90-815C-74C0B4370CB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752666031.98904598</real>
+			<key>timeStoppedRecording</key>
+			<real>752666034.39024496</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>9FDBBE15-C24C-4D90-815C-74C0B4370CB2</string>
+		</dict>
+		<key>A3C585D9-07FA-4E55-BB8C-ABF224691AB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3C585D9-07FA-4E55-BB8C-ABF224691AB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752653328.42934406</real>
+			<key>timeStoppedRecording</key>
+			<real>752653330.57942903</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>A3C585D9-07FA-4E55-BB8C-ABF224691AB8</string>
+		</dict>
+		<key>CE85490F-EB56-4142-A29A-04E5D2E5CEE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE85490F-EB56-4142-A29A-04E5D2E5CEE0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752663356.22306502</real>
+			<key>timeStoppedRecording</key>
+			<real>752663357.50258696</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>CE85490F-EB56-4142-A29A-04E5D2E5CEE0</string>
+		</dict>
+		<key>D6A9E814-50A6-45C7-A237-2833EA4ADAA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6A9E814-50A6-45C7-A237-2833EA4ADAA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752664721.92031705</real>
+			<key>timeStoppedRecording</key>
+			<real>752664725.01630199</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>D6A9E814-50A6-45C7-A237-2833EA4ADAA5</string>
+		</dict>
+		<key>DE0320E5-79E6-4BFC-A82E-2BB637930190</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE0320E5-79E6-4BFC-A82E-2BB637930190.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752666094.84327996</real>
+			<key>timeStoppedRecording</key>
+			<real>752666096.821877</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>DE0320E5-79E6-4BFC-A82E-2BB637930190</string>
+		</dict>
+		<key>E1725B87-5516-43F0-9970-CA001A75D95D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1725B87-5516-43F0-9970-CA001A75D95D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752663660.63948703</real>
+			<key>timeStoppedRecording</key>
+			<real>752663662.59174097</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>E1725B87-5516-43F0-9970-CA001A75D95D</string>
+		</dict>
+		<key>E7FFC24B-1BB0-4A2F-B41F-E79AE2F83CB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7FFC24B-1BB0-4A2F-B41F-E79AE2F83CB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>neostore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>neostore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build neostore</string>
+			<key>timeStartedRecording</key>
+			<real>752664122.99725401</real>
+			<key>timeStoppedRecording</key>
+			<real>752664124.61808503</real>
+			<key>title</key>
+			<string>Build neostore</string>
+			<key>uniqueIdentifier</key>
+			<string>E7FFC24B-1BB0-4A2F-B41F-E79AE2F83CB5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

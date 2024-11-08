@@ -1,0 +1,20 @@
+"/Users/neosoft/Documents/neostore/neostore/Screens/Register/Model/Register Model.swift":
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Register Model.o"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Register Model.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Register Model.dia"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Register Model.swiftdeps"
+"/Users/neosoft/Documents/neostore/neostore/Screens/Login/Model/Login.swift":
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Login.swiftdeps"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Login.d"
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Login.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/Login.o"
+"/Users/neosoft/Documents/neostore/neostore/Screens/Register/View/RegisterViewController.swift":
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewController.dia"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewController.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewController.swiftdeps"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/RegisterViewController.d"
+"/Users/neosoft/Documents/neostore/neostore/Screens/ForgetPassword/View/ForgetPasswordViewController.swift":
+  diagnostics: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/ForgetPasswordViewController.dia"
+  dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/ForgetPasswordViewController.d"
+  object: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/ForgetPasswordViewController.o"
+  swift-dependencies: "/Users/neosoft/Documents/neostore/neostore-ccptwsfgwtsbtlggrghjtbmizfav/Build/Intermediates.noindex/neostore.build/Debug-iphonesimulator/neostore.build/Objects-normal/x86_64/ForgetPasswordViewController.swiftdeps"
