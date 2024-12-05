@@ -15,6 +15,7 @@ class ForgetPasswordViewController: UIViewController {
         super.viewDidLoad()
         setui()
         setTextFieldDelegate()
+        hidekeyboard()
     }
     
     func setui(){
@@ -27,6 +28,9 @@ class ForgetPasswordViewController: UIViewController {
     
     @IBAction func submitbtntapped(_ sender: Any) {
         goToPreviousScreen()
+        
+    
+       
     }
     
     

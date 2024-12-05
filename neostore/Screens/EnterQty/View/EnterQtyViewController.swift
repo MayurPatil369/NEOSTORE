@@ -7,23 +7,77 @@
 
 import UIKit
 
-class EnterQtyViewController: UIViewController {
+protocol ProductQuantityDelegate{
+    func onDismiss()
+    func quantityAdded()
+}
 
+class EnterQtyViewController: UIViewController {
+    let sb = UIStoryboard(name: SbConstants.Cart, bundle: nil)
+    
+    @IBOutlet weak var productname: UILabel!
+    @IBOutlet weak var productImg: UIImageView!
+    
+    @IBOutlet weak var enterQtytf: UITextField!
+    @IBOutlet weak var submitBtnClicked: UIButton!
+    
+    var delegate: ProductQuantityDelegate?
+       var data: productDetailsData?
+       var productQuantityDelegate: ProductQuantityDelegate?
+       var cartViewController: CartViewController?
+       var prodImg: String!
+       var prodLbl: String!
+       var prodId: Int!
+       var quantity: String!
+       lazy var cartViewModel = CartViewModel()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+            setUpData()
 
-        // Do any additional setup after loading the view.
+        productname.text = prodLbl
+        enterQtytf.keyboardType = .numberPad
+        print(prodId!)
+        
+        self.view.backgroundColor = .black.withAlphaComponent(0.5)
+        addDismissGesture()
     }
 
 
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    func setUpData(){
+        guard let data else{return}
+        productname.text = data.name
+        if let imgurl = URL(string: data.product_images?[0].image ?? ""){
+            productImg.loadImage(from: imgurl)
+        }
     }
-    */
+    
+    
+    @IBAction func submitBtnClicked(_ sender: Any) {
+        
+        if !enterQtytf.validate(for: .quantity) {
+            showAlert1(title: AlertConstants.Error, message: "Please enter a valid quantity (numbers only).")
+            return
+        }
+        let quantTotal = Int(self.enterQtytf.text ?? "0") ?? 0
+        guard let prodId = prodId else { return }
 
-}
+        let req = CartRequest(product_id: prodId, quantity: quantTotal)
+        cartViewModel.addtoCart(cartreq: req)
+
+        delegate?.quantityAdded()
+        dismiss(animated: true)
+    }
+    
+    func addDismissGesture() {
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(dismissPopup))
+        self.view.addGestureRecognizer(tapGesture)
+    }
+    
+    @objc func dismissPopup() {
+        dismiss(animated: true)
+    }
+      
+    }
+    
+

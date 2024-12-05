@@ -8,11 +8,13 @@ import UIKit
 
 extension UIViewController {
 
-    func navigateToScreen(storyboardName: String, viewControllerID: String) {
-        
+    func navigateToScreen(storyboardName: String, viewControllerID: String, prodCatId: Int? = nil) {
         let storyboard = UIStoryboard(name: storyboardName, bundle: nil)
-        
         let viewController = storyboard.instantiateViewController(withIdentifier: viewControllerID)
+        
+        if let productVC = viewController as? ProductViewController, let prodCatId = prodCatId {
+            productVC.prodCatId = prodCatId
+        }
         
         if let navigationController = self.navigationController {
             navigationController.pushViewController(viewController, animated: true)
@@ -20,6 +22,7 @@ extension UIViewController {
             print("Error: No navigation controller found.")
         }
     }
+
     
     func goToPreviousScreen() {
          if let navigationController = self.navigationController {
@@ -28,9 +31,8 @@ extension UIViewController {
              print("Error: No navigation controller found.")
          }
      }
-    
+
     
     
 }
-
 

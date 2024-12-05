@@ -22,29 +22,45 @@ class RegisterViewController: UIViewController {
     
     var isCheckboxSelected = false
     var selectedGender: String = Constants.Male
-    private let viewModel = RegisterViewModel()
+    private lazy var viewModel = RegisterViewModel()
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
         setupUI()
+        navigationUI()
         
         viewModel.onSuccess = { [weak self] in
-              self?.showAlert("Registration successful!") {
-                  print("done")
-              }
+            self?.showAlert1(title: AlertConstants.Success, message: AlertConstants.RegistrationSuccess)
           }
           
           viewModel.onFailure = { [weak self] errorMessage in
-              self?.showAlert("Registration failed: \(errorMessage)")
+              self?.showAlert1(title: AlertConstants.Error, message: "\(AlertConstants.RegistrationFail) \(errorMessage)")
           }
         firstnametextfield.text = "Mayur"
         lastnametextfield.text = "Patil"
-        emailtextfield.text = "Mayur369@gmail.com"
-        passwordtextfield.text = "Mayur@123"
-        confirmpasswordtextfield.text = "Mayur@123"
-        phonetextfield.text = "1234567890"
+        emailtextfield.text = "Mayur321@gmail.com"
+        passwordtextfield.text = "Mayur@321"
+        confirmpasswordtextfield.text = "Mayur@321"
+        phonetextfield.text = "1234567891"
     }
+    
+    func navigationUI() {
+        
+        self.navigationController?.navigationBar.tintColor = .white
+        self.title = NavigationTitleConst.Register
+        let titleAttributes: [NSAttributedString.Key: Any] = [
+            .foregroundColor: UIColor.white,
+            .font: UIFont.boldSystemFont(ofSize: 23)
+        ]
+        self.navigationController?.navigationBar.titleTextAttributes = titleAttributes
+        
+        let backButton = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
+        self.navigationItem.backBarButtonItem = backButton
+    }
+
+
+
 
     
   
@@ -105,13 +121,6 @@ class RegisterViewController: UIViewController {
         termstext.attributedText = attributedText
     }
 
-    
-    private func showAlert(_ message: String, handler: (() -> Void)? = nil) {
-        let alert = UIAlertController(title: nil, message: message, preferredStyle: .alert)
-        alert.addAction(UIAlertAction(title: "OK", style: .default) { _ in handler?() })
-        present(alert, animated: true, completion: nil)
-    }
-
    
     
     private func validateFields() -> Bool {
@@ -142,9 +151,8 @@ class RegisterViewController: UIViewController {
     }
 
     @IBAction func registerButtonTapped(_ sender: Any) {
-        print("register btn")
         guard validateFields() else {
-                    showAlert("Please fill out all fields correctly.")
+            showAlert1(title: AlertConstants.Error, message: "Please fill out all fields correctly.")
                     return
                 }
                 

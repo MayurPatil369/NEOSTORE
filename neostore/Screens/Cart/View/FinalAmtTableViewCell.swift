@@ -9,6 +9,11 @@ import UIKit
 
 class FinalAmtTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var totalcost: UILabel!
+    
+    @IBOutlet weak var totallbl: UILabel!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

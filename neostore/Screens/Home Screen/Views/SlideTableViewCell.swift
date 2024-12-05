@@ -13,7 +13,10 @@ class SlideTableViewCell: UITableViewCell {
         super.awakeFromNib()
         // Initialization code
     }
-
+    @IBOutlet weak var MenuTableImgView: UIImageView!
+    
+    @IBOutlet weak var MenuTableTitleText: UILabel!
+    
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 

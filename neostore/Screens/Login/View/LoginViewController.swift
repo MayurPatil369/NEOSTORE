@@ -14,8 +14,7 @@ class LoginViewController: UIViewController {
     @IBOutlet weak var Forgetpasswordbtn: UIButton!
     
     @IBOutlet weak var Registerbtn: UIButton!
-    var resp : LoginResponse?
-    var loginViewModel = LoginViewModel()
+    lazy var loginViewModel = LoginViewModel()
     
     
     override func viewDidLoad() {
@@ -25,6 +24,9 @@ class LoginViewController: UIViewController {
         setTextFieldDelegate()
         hidekeyboard()
         setupViewModelBindings()
+        
+        usernameTextField.text = "Mayur321@gmail.com"
+        passwordTextField.text = "Mayur@321"
     }
     
     func setui(){
@@ -43,41 +45,50 @@ class LoginViewController: UIViewController {
                 guard let self = self else { return }
                 switch event {
                 case .loading:
-                    print("Loading...")
+                    print(EventConstants.Loading)
                 case .stopLoading:
-                    print("Stopped loading.")
+                    print(EventConstants.StoppedLoading)
                 case .dataLoaded:
-                    
-                    self.showAlert(title: "Success", message: "Logged in successfully!")
+                    self.showAlert(title: AlertConstants.Success, message: "Logged in successfully!") {
+                        self.navigateToScreen(storyboardName: SbConstants.HomeScreen, viewControllerID: SbConstants.HomeScreen)
+                    }
+                
                 case .error(let error):
-                    self.showAlert(title: "Error", message: error?.localizedDescription ?? "Login failed. Please try again.")
+                    if let error = error as? DataError {
+                        self.showAlert(title: EventConstants.Error, message: error.localizedError)
+
+                    }
+                 
                 }
             }
         }
     
-    private func showAlert(title: String, message: String) {
-            let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
-            alertController.addAction(UIAlertAction(title: "OK", style: .default))
-            present(alertController, animated: true)
-        }
-    
+    private func showAlert(title: String, message: String, completion: (() -> Void)? = nil) {
+        let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
+        
+        alertController.addAction(UIAlertAction(title: "OK", style: .default, handler: { _ in
+            completion?()
+        }))
+        
+        present(alertController, animated: true)
+    }
+
     @IBAction func Forgetpasswordbtntapped(_ sender: Any) {
-        navigateToScreen(storyboardName: "ForgetPasswordStoryboard", viewControllerID: "ForgetPasswordViewController")
+        navigateToScreen(storyboardName: SbConstants.Main, viewControllerID: SbConstants.ForgetPasswordViewController)
     }
     @IBAction func Registerbtntapped(_ sender: Any) {
-        navigateToScreen(storyboardName: "Register", viewControllerID: "RegisterViewController")
+        navigateToScreen(storyboardName: SbConstants.Main, viewControllerID: SbConstants.RegisterViewController)
     }
     @IBAction func loginbtntapped(_ sender: Any) {
-        navigateToScreen(storyboardName: "HomeScreen", viewControllerID: "HomeScreen")
-//        guard let email = usernameTextField.text, !email.isEmpty,
-//                     let password = passwordTextField.text, !password.isEmpty else {
-//                   showAlert(title: "Validation Error", message: "Please enter both email and password.")
-//                   return
-//               }
-//               
-//               let loginModel = LoginModel(email: email, password: password)
-//               
-//               loginViewModel.getRequest(logs: loginModel)
+        guard let email = usernameTextField.text, !email.isEmpty,
+                     let password = passwordTextField.text, !password.isEmpty else {
+            showAlert(title: AlertConstants.ValidationError, message: "Please enter both email and password.")
+                   return
+               }
+               
+               let loginModel = LoginModel(email: email, password: password)
+               
+               loginViewModel.getRequest(logs: loginModel)
     }
 }
 

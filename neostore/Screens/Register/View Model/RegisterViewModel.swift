@@ -11,9 +11,9 @@ final class RegisterViewModel {
     var onFailure: ((String) -> Void)?
     
     func registerUser(with data: RegistrationData) {
-        APIManager.shared.request(
+        APIManager.shared.manager(
             modelType: RegisterModel.self,
-            endpoint: APIEndpoints.register,
+            type: APIEndpoints.register,
             requestModel: data,
             method: .post
         ) {  result in

@@ -11,7 +11,7 @@ class MyViewController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        self.navigationItem.leftBarButtonItem?.tintColor = .white
         // Do any additional setup after loading the view.
     }
     
